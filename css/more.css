@@ -20,12 +20,9 @@
   margin-top: 15px;
 }
 
-.more .more__suggestions {
+.more .more__title {
   border-top: 1px solid #f7f7f7;
   padding-top: 20px;
-}
-
-.more .more__title {
   opacity: 0.8;
   margin-bottom: 20px;
 }
